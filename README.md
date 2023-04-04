@@ -1,6 +1,6 @@
 # Hangi Yazılım Dilini Öğrenmeliyim  
 
-Bu proje, yazılıma yeni başlayan kişilere hangi yazılım dilini öğrenmeleri gerektiğine karar vermelerine yardımcı olmak için tasarlanmıştır. Kullanıcıya 5 soru sorulur ve cevaplarına göre, hangi yazılım dilinin ona uygun olduğuna karar verilir.
+Bu proje, yazılıma yeni başlayan kişilere hangi yazılım dilini öğrenmeleri gerektiğine karar vermelerine yardımcı olmak için tasarlanmıştır. Kullanıcıya 5 soru sorulur ve cevaplarına göre, hangi yazılım dilinin ona uygun olduğuna karar verilir. Hello from ndd
 
 ## Kullanılan Teknolojiler
 
